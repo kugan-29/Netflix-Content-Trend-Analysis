@@ -11,6 +11,7 @@ Exploratory data analysis of 8,807 Netflix movies and TV shows using Python (Pan
   <img src="https://img.shields.io/badge/Excel-150458?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/EDA-217346?style=flat-square&logo=EDA&logoColor=white"/>
 </p>
+
 ![Dashboard](dashboard.png)
 
 ## Tools
