@@ -18,7 +18,7 @@ Exploratory data analysis of 8,807 Netflix movies and TV shows using Python (Pan
 ## 🛠️ Tools
 - **Python (Pandas, NumPy, Matplotlib):** data cleaning, EDA, charts
 - **Excel:** pivot tables and dashboard
-- **EDA:** 
+- **EDA (Exploratory Data Analysis) :** missing value checks, content mix (Movies vs TV Shows), yearly growth trends
 
 ## 📊 Dataset
 Public Netflix titles dataset (Kaggle): 8,807 titles, 12 columns (type, title, director, cast, country, date added, release year, rating, duration, genres, description).
