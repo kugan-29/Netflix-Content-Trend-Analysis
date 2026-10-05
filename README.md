@@ -17,7 +17,9 @@ Exploratory data analysis of 8,807 Netflix movies and TV shows using Python (Pan
   <img src="https://img.shields.io/badge/EDA-217346?style=flat-square&logo=EDA&logoColor=white"/>
 </p>
 - **Python (Pandas, NumPy, Matplotlib):** data cleaning, EDA, charts
+
 - **Excel:** pivot tables and dashboard
+
 - **EDA (Exploratory Data Analysis) :** missing value checks, content mix (Movies vs TV Shows), yearly growth trends
 
 ## 📊 Dataset
