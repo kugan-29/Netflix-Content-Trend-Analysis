@@ -3,7 +3,7 @@
 ## 📖Overview
 Exploratory data analysis of 8,807 Netflix movies and TV shows using Python (Pandas, Matplotlib) and an Excel dashboard built with pivot tables.
 
-🔗 **Live Demo:**[View Dashboard](Netflix_Content_Analysis_Dashboard.xlsx)
+🔗 **View Dashboard:**[View Dashboard](Netflix_Content_Analysis_Dashboard.xlsx)
 
 ## 😉 View the Work
 - [Python EDA notebook](Netflix_EDA.ipynb) (code, charts and findings)
@@ -38,3 +38,10 @@ Public Netflix titles dataset (Kaggle): 8,807 titles, 12 columns (type, title, d
 - Fixed 3 rows where the duration was stored in the rating column.
 - Parsed date_added into year and month columns.
 - The Excel dashboard uses the first-listed country and genre per title, while the notebook counts all listed values.
+
+ 
+  ## Author
+
+**Kugan J**
+Data Analyst | SQL · Power BI · Excel · Python 
+[LinkedIn](https://linkedin.com/in/kugan-j) · [Portfolio](https://kugan-29.github.io/portfolio) 
