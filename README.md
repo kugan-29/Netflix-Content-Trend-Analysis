@@ -3,7 +3,9 @@
 ## 📖Overview
 Exploratory data analysis of 8,807 Netflix movies and TV shows using Python (Pandas, Matplotlib) and an Excel dashboard built with pivot tables.
 
-🔗 **View Dashboard:**[View Dashboard](Netflix_Content_Analysis_Dashboard.xlsx)
+🔗 **View Analytics:**
+[Explore Dashboard](Netflix_Content_Analysis_Dashboard.xlsx)
+
 
 ## 😉 View the Work
 - [Python EDA notebook](Netflix_EDA.ipynb) (code, charts and findings)
