@@ -1,4 +1,8 @@
-# Netflix Content Trend Analysis
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=&fontSize=80&fontColor=F2C811&animation=Stars&fontAlignY=38&desc=Netflix%20Content%20%Trend%20Analysis&descSize=30&descColor=00F5D4&descAlignY=50" width="100%"/>
+
+<div align="Left">
 
 ## 📖Overview
 Exploratory data analysis of 8,807 Netflix movies and TV shows using Python (Pandas, Matplotlib) and an Excel dashboard built with pivot tables.
